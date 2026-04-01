@@ -113,7 +113,7 @@ streamlit run src/app.py
 
 ### 📊 Prediction Output
 
-<img src="screenshots/output.png" width="500"/>
+<img src="screenshots/overall.png" width="500"/>
 
 ---
 
